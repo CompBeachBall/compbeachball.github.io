@@ -7,7 +7,7 @@ description: Ranking Prezle!
 pin: false
 author: Radium
 ---
-# 📊 Stats
+## 📊 Stats
 
 - **Rank:** JellyFish
 - **Value:** 3.66
@@ -18,7 +18,7 @@ author: Radium
 - **GameSense:** Med-High
 - **Teamwork:** N/A — Not tested yet
 
-# 📝 Breakdown
+## 📝 Breakdown
 
 Prezle is a fair and fun player to play with who has good potential but is not using it yet.
 
@@ -28,7 +28,7 @@ Despite this, she already shows a good amount of skill and could reach a higher 
 
 > — Radium
 
-## 🏆 Ranking Info
+### 🏆 Ranking Info
 
 - **Ranked by:** Radium
 - **Ranked on:** 08/09/2026 at 21:11
