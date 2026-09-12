@@ -2,7 +2,7 @@
 title: Prezle Ranked
 date: 2026-09-11 18:46:00 +0700
 categories: [Ranking, Prezle]
-tags: ranking, prezle
+tags: Ranking Prezle
 description: Ranking Prezle!
 pin: false
 author: Radium
