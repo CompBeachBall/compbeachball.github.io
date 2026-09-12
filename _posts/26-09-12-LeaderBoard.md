@@ -7,3 +7,4 @@ description: Check the LeaderBoard of Ranked Players
 pin: true
 author: Radium
 ---
+1. [Prezle](https://compbeachball.github.io/posts/Prezle-Ranked)
