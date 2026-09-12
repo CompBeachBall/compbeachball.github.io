@@ -1,7 +1,7 @@
 ---
 title: LeaderBoard
 date: 2026-09-12 11:15:00 +0700
-categories: [Rank]
+categories: [Offical]
 tags: Ranking
 description: Check the LeaderBoard of Ranked Players
 pin: true
